@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfscaredplayer.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="6" y="6" width="274" height="333"/>
+	<SubTexture name="down0001" x="6" y="6" width="274" height="333"/>
+	<SubTexture name="down0002" x="286" y="6" width="274" height="333"/>
+	<SubTexture name="down0003" x="286" y="6" width="274" height="333"/>
+	<SubTexture name="down0004" x="566" y="6" width="274" height="333"/>
+	<SubTexture name="down miss0000" x="846" y="6" width="277" height="342"/>
+	<SubTexture name="down miss0001" x="1129" y="6" width="277" height="342"/>
+	<SubTexture name="down miss0002" x="1129" y="6" width="277" height="342"/>
+	<SubTexture name="down miss0003" x="1412" y="6" width="277" height="342"/>
+	<SubTexture name="down miss0004" x="1412" y="6" width="277" height="342"/>
+	<SubTexture name="idle0000" x="1695" y="6" width="266" height="476"/>
+	<SubTexture name="idle0001" x="6" y="488" width="266" height="476"/>
+	<SubTexture name="idle0002" x="278" y="488" width="266" height="476"/>
+	<SubTexture name="idle0003" x="550" y="488" width="266" height="476"/>
+	<SubTexture name="left0000" x="822" y="488" width="284" height="460"/>
+	<SubTexture name="left0001" x="1112" y="488" width="284" height="460"/>
+	<SubTexture name="left0002" x="1112" y="488" width="284" height="460"/>
+	<SubTexture name="left0003" x="1402" y="488" width="284" height="460"/>
+	<SubTexture name="left0004" x="1402" y="488" width="284" height="460"/>
+	<SubTexture name="left miss0000" x="1692" y="488" width="286" height="468"/>
+	<SubTexture name="left miss0001" x="6" y="970" width="286" height="468"/>
+	<SubTexture name="left miss0002" x="6" y="970" width="286" height="468"/>
+	<SubTexture name="left miss0003" x="298" y="970" width="286" height="468"/>
+	<SubTexture name="left miss0004" x="298" y="970" width="286" height="468"/>
+	<SubTexture name="right0000" x="590" y="970" width="277" height="468"/>
+	<SubTexture name="right0001" x="873" y="970" width="277" height="468"/>
+	<SubTexture name="right0002" x="873" y="970" width="277" height="468"/>
+	<SubTexture name="right0003" x="1156" y="970" width="277" height="468"/>
+	<SubTexture name="right miss0000" x="1439" y="970" width="275" height="470"/>
+	<SubTexture name="right miss0001" x="1720" y="970" width="275" height="470"/>
+	<SubTexture name="right miss0002" x="1720" y="970" width="275" height="470"/>
+	<SubTexture name="right miss0003" x="6" y="1446" width="275" height="470"/>
+	<SubTexture name="up0000" x="287" y="1446" width="277" height="480"/>
+	<SubTexture name="up0001" x="570" y="1446" width="277" height="480"/>
+	<SubTexture name="up0002" x="570" y="1446" width="277" height="480"/>
+	<SubTexture name="up0003" x="853" y="1446" width="277" height="480"/>
+	<SubTexture name="up miss0000" x="1136" y="1446" width="284" height="484"/>
+	<SubTexture name="up miss0001" x="1426" y="1446" width="284" height="484"/>
+	<SubTexture name="up miss0002" x="1426" y="1446" width="284" height="484"/>
+	<SubTexture name="up miss0003" x="1716" y="1446" width="284" height="484"/>
+</TextureAtlas>

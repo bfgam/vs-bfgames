@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="agotipibby.png" width="3878" height="4084">
+  <SubTexture name="hey0012.png" x="0" y="0"  width="696" height="903" frameX="-152" frameY="-41" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="hey0013.png" x="0" y="903"  width="696" height="903" frameX="-152" frameY="-41" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="l0008.png" x="0" y="1806"  width="527" height="900" frameX="-223" frameY="-50" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="l0004.png" x="0" y="2706"  width="530" height="897" frameX="-204" frameY="-56" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="i0000.png" x="527" y="1806"  width="527" height="894" frameX="-219" frameY="-50" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="i0001.png" x="530" y="2700"  width="527" height="892" frameX="-219" frameY="-56" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="l0005.png" x="696" y="0"  width="527" height="890" frameX="-192" frameY="-60" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="u0010.png" x="696" y="890"  width="527" height="890" frameX="-219" frameY="-50" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="l0009.png" x="1054" y="1780"  width="527" height="889" frameX="-223" frameY="-55" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="u0011.png" x="1057" y="2669"  width="527" height="888" frameX="-227" frameY="-47" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="i0002.png" x="1581" y="3557" width="885" height="527" rotated="true"  frameX="-219" frameY="-73" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="i0003.png" x="2466" y="3557" width="885" height="527" rotated="true"  frameX="-219" frameY="-89" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="d0007.png" x="3351" y="0"  width="527" height="884" frameX="-222" frameY="-71" frameWidth="999" frameHeight="999"/>
+  <SubTexture name="d0006.png" x="1223" y="884"  width="527" height="870" frameX="-225" frameY="-79" frameWidth="999" frameHeight="999"/>
+</TextureAtlas>

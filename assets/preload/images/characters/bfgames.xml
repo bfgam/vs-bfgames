@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfgames.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="u0010.png" x="0" y="0"  width="278" height="508" frameX="-405" frameY="-336" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="i0002.png" x="0" y="508"  width="298" height="500" frameX="-383" frameY="-344" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="i0004.png" x="278" y="0"  width="290" height="500" frameX="-387" frameY="-344" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="i0001.png" x="0" y="1008"  width="284" height="500" frameX="-390" frameY="-345" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="i0003.png" x="0" y="1508"  width="302" height="499" frameX="-383" frameY="-345" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="d0013.png" x="284" y="1008"  width="278" height="499" frameX="-393" frameY="-345" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="i0000.png" x="298" y="500"  width="278" height="494" frameX="-393" frameY="-350" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="i0005.png" x="568" y="0"  width="278" height="494" frameX="-393" frameY="-350" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="l0007.png" x="302" y="1507"  width="278" height="494" frameX="-393" frameY="-350" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="r0009.png" x="562" y="994"  width="278" height="494" frameX="-393" frameY="-350" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="u0011.png" x="580" y="494"  width="278" height="494" frameX="-393" frameY="-350" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="l0006.png" x="846" y="0"  width="292" height="491" frameX="-386" frameY="-353" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="r0008.png" x="580" y="1488"  width="276" height="491" frameX="-394" frameY="-353" frameWidth="1069" frameHeight="1069"/>
+  <SubTexture name="d0012.png" x="840" y="988"  width="278" height="445" frameX="-392" frameY="-388" frameWidth="1069" frameHeight="1069"/>
+</TextureAtlas>
