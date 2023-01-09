@@ -1,0 +1,52 @@
+{
+	"songs": [
+		[
+			"paralysis",
+			"bfgames",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"bfgames-nervous",
+			"bfgames",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"epiphany",
+			"bfgames",
+			[
+				146,
+				113,
+				93
+			]
+		]
+	],
+	"playSynth": true,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bg",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "bfgames week",
+	"storySong": "drumloop0",
+	"weekName": "bfgames week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
